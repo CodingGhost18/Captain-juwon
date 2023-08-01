@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Captain-juwon
 - 👀 I’m interested in coding, sports, video games and progressive learning.
-- 🌱 I’m currently learning JavaScript and bootstrap.
-- 💞️ I’m looking to collaborate on Html and CSS related projects
+- 🌱 I’m currently learning React.js.
+- 💞️ I’m looking to collaborate on Html, CSS  and JavaScript related projects
 - 📫 How to reach me? You can reach me via my email, yuyuadesokan@gmail.com.
 
 <!---
